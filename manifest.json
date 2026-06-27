@@ -1,0 +1,19 @@
+{
+  "name": "90-Day Fitness Plan",
+  "short_name": "Fitness",
+  "description": "Arms + Abs 90-day dumbbell and cardio tracker",
+  "start_url": "/Ernie-fitness-tracker/",
+  "scope": "/Ernie-fitness-tracker/",
+  "display": "standalone",
+  "background_color": "#1D9E75",
+  "theme_color": "#1D9E75",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
